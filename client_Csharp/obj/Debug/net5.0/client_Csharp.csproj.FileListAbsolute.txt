@@ -1,0 +1,16 @@
+E:\C_Sharp\socket\client_Csharp\client_Csharp\bin\Debug\net5.0\client_Csharp.exe
+E:\C_Sharp\socket\client_Csharp\client_Csharp\bin\Debug\net5.0\client_Csharp.deps.json
+E:\C_Sharp\socket\client_Csharp\client_Csharp\bin\Debug\net5.0\client_Csharp.runtimeconfig.json
+E:\C_Sharp\socket\client_Csharp\client_Csharp\bin\Debug\net5.0\client_Csharp.runtimeconfig.dev.json
+E:\C_Sharp\socket\client_Csharp\client_Csharp\bin\Debug\net5.0\client_Csharp.dll
+E:\C_Sharp\socket\client_Csharp\client_Csharp\bin\Debug\net5.0\ref\client_Csharp.dll
+E:\C_Sharp\socket\client_Csharp\client_Csharp\bin\Debug\net5.0\client_Csharp.pdb
+E:\C_Sharp\socket\client_Csharp\client_Csharp\obj\Debug\net5.0\client_Csharp.csproj.AssemblyReference.cache
+E:\C_Sharp\socket\client_Csharp\client_Csharp\obj\Debug\net5.0\client_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C_Sharp\socket\client_Csharp\client_Csharp\obj\Debug\net5.0\client_Csharp.AssemblyInfoInputs.cache
+E:\C_Sharp\socket\client_Csharp\client_Csharp\obj\Debug\net5.0\client_Csharp.AssemblyInfo.cs
+E:\C_Sharp\socket\client_Csharp\client_Csharp\obj\Debug\net5.0\client_Csharp.csproj.CoreCompileInputs.cache
+E:\C_Sharp\socket\client_Csharp\client_Csharp\obj\Debug\net5.0\client_Csharp.dll
+E:\C_Sharp\socket\client_Csharp\client_Csharp\obj\Debug\net5.0\ref\client_Csharp.dll
+E:\C_Sharp\socket\client_Csharp\client_Csharp\obj\Debug\net5.0\client_Csharp.pdb
+E:\C_Sharp\socket\client_Csharp\client_Csharp\obj\Debug\net5.0\client_Csharp.genruntimeconfig.cache

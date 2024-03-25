@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Admin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Admin\\.nuget\\packages",
+      "D:\\VISUAL STUDIO 2019\\INSTALL\\SHARED\\NuGetPackages"
+    ]
+  }
+}
